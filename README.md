@@ -28,9 +28,9 @@
 
 
 ## 🎓 Formação
-- Graduado em **Gestão de TI**
-- Primeira Pós-Graduação concluída em: **Programação para dispositivos móveis**
 - Segunda Pós-Graduação em andamento: **Programação por IA**
+- Primeira Pós-Graduação concluída em: **Programação para dispositivos móveis**
+- Graduado em **Gestão de TI**
 
 ---
 ✨ Sempre aprendendo e explorando novas formas de unir tecnologia e inovação.
