@@ -1,6 +1,6 @@
 ## olá pessoALL 👋
 
-<a href="https://github.com/rbnigro"># 👋 Olá, eu sou Ronney!
+<a href="[https://www.linkedin.com/in/ronneynigro/"># 👋 Olá, eu sou Ronney!
 
 ## 🚀 Tecnologias
 - **Java**
