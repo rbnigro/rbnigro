@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou Ronney!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronneynigro/)
+![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)
 
 ## 🚀 Tecnologias
 <p align="left">
