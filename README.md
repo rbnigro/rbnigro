@@ -15,6 +15,7 @@
   <a href="https://www.linkedin.com/in/ronneynigro/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/ronneynigro/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
   </a>
