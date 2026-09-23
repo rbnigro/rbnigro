@@ -10,9 +10,6 @@
 ## 🚀 Tecnologias
 <p align="left">
   <a href="https://www.linkedin.com/in/ronneynigro/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="50" height="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ronneynigro/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   </a>
   <a href="https://www.linkedin.com/in/ronneynigro/">
